@@ -1,6 +1,6 @@
 {
-  "name": "Ledgerbook — Personal Finance Statement",
-  "short_name": "Ledgerbook",
+  "name": "Expense Tracker — Personal Finance Statement",
+  "short_name": " Expense Tracker",
   "description": "Track income, expenses, categories, places, and receipts in one formal ledger-style statement.",
   "start_url": "./index.html",
   "scope": "./",
