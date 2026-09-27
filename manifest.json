@@ -1,0 +1,15 @@
+{
+  "name": "Ledgerbook — Personal Finance Statement",
+  "short_name": "Ledgerbook",
+  "description": "Track income, expenses, categories, places, and receipts in one formal ledger-style statement.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F6F7F9",
+  "theme_color": "#101B2D",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
